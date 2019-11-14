@@ -1,3 +1,53 @@
+<a name="0.4.0"></a>
+# [0.4.0](https://github.com/kazupon/vue-cli-plugin-p11n/compare/v0.3.0...v0.4.0) (2019-08-19)
+
+
+### :star: New Features
+
+* **demo:** enable build demo ([#35](https://github.com/kazupon/vue-cli-plugin-p11n/issues/35)) by [@miyanokomiya](https://github.com/miyanokomiya) ([8de8cb9](https://github.com/kazupon/vue-cli-plugin-p11n/commit/8de8cb9)), closes [#35](https://github.com/kazupon/vue-cli-plugin-p11n/issues/35)
+
+
+
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/kazupon/vue-cli-plugin-p11n/compare/v0.2.1...v0.3.0) (2019-05-14)
+
+
+### :star: New Features
+
+* Automatically insert node_modules as externals ([#22](https://github.com/kazupon/vue-cli-plugin-p11n/issues/22)) by [@CrashyBang](https://github.com/CrashyBang) ([c519d43](https://github.com/kazupon/vue-cli-plugin-p11n/commit/c519d43)), closes [#22](https://github.com/kazupon/vue-cli-plugin-p11n/issues/22)
+
+
+
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/kazupon/vue-cli-plugin-p11n/compare/v0.2.0...v0.2.1) (2019-03-28)
+
+
+### :zap: Improvements
+
+* **build:** improve single-file components bindling ([#20](https://github.com/kazupon/vue-cli-plugin-p11n/issues/20)) by [@EtienneSchmitz](https://github.com/EtienneSchmitz) ([1011408](https://github.com/kazupon/vue-cli-plugin-p11n/commit/1011408)), closes [#20](https://github.com/kazupon/vue-cli-plugin-p11n/issues/20) [#19](https://github.com/kazupon/vue-cli-plugin-p11n/issues/19)
+
+
+
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/kazupon/vue-cli-plugin-p11n/compare/v0.1.4...v0.2.0) (2019-03-15)
+
+
+### :star: New Features
+
+* prepublish hook and start script ([#17](https://github.com/kazupon/vue-cli-plugin-p11n/issues/17)) by [@mszkb](https://github.com/mszkb) ([e92399c](https://github.com/kazupon/vue-cli-plugin-p11n/commit/e92399c)), closes [#17](https://github.com/kazupon/vue-cli-plugin-p11n/issues/17)
+
+
+
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/kazupon/vue-cli-plugin-p11n/compare/v0.1.3...v0.1.4) (2019-02-22)
+
+
+### :bug: Bug Fixes
+
+* **core:** Normalize scoped names in build ([#13](https://github.com/kazupon/vue-cli-plugin-p11n/issues/13)) by [@d0whc3r](https://github.com/d0whc3r) ([6439350](https://github.com/kazupon/vue-cli-plugin-p11n/commit/6439350)), closes [#13](https://github.com/kazupon/vue-cli-plugin-p11n/issues/13)
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/kazupon/vue-cli-plugin-p11n/compare/v0.1.2...v0.1.3) (2019-02-18)
 
